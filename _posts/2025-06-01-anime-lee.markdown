@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Anime Lee"
+date:   2025-06-01 15:55:34 -0400
+categories: jekyll update
+---
+
+![anime-lee-image]({{ site.baseurl }}/assets/images/animelee.png)
