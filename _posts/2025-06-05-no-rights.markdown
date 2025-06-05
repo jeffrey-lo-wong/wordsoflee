@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "No Rights"
+date:   2025-06-05 15:55:34 -0400
+categories: jekyll update
+---
+
+![no-rights-image]({{ site.baseurl }}/assets/images/norights.png)
