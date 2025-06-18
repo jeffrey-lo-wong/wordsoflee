@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "My Ordinary Life"
+date:   2025-06-17 15:55:34 -0400
+categories: jekyll update
+---
+
+![discord-image]({{ site.baseurl }}/assets/images/discord.png)
